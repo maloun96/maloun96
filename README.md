@@ -4,3 +4,5 @@
 
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
