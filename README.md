@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maloun96" alt="maloun96" /></a> </p>
 
-- 🔭 I’m currently working on [BinarCode](https://www.binarcode.com/)
+- 🔭 I’m currently working at [BinarCode](https://www.binarcode.com/)
 
 - 💬 Ask me about **react, vue, laravel**
 
